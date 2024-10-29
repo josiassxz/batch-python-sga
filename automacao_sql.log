@@ -1,0 +1,322 @@
+2024-09-27 12:07:57,934 - ERROR - Erro ao conectar ao banco de dados datalake: 1049 (42000): Unknown database 'datalake'
+2024-09-27 12:07:57,934 - ERROR - Não foi possível conectar ao datalake. Encerrando o script.
+2024-09-27 12:08:16,310 - ERROR - Erro ao conectar ao banco de dados datalake: 1049 (42000): Unknown database 'datalake'
+2024-09-27 12:08:16,310 - ERROR - Não foi possível conectar ao datalake. Encerrando o script.
+2024-09-27 12:09:26,200 - ERROR - Erro ao conectar ao banco de dados datalake: 1049 (42000): Unknown database 'datalake'
+2024-09-27 12:09:26,201 - ERROR - Não foi possível conectar ao datalake. Encerrando o script.
+2024-09-27 12:09:35,399 - ERROR - Erro ao conectar ao banco de dados datalake: 1049 (42000): Unknown database 'datalake'
+2024-09-27 12:09:35,399 - ERROR - Não foi possível conectar ao datalake. Encerrando o script.
+2024-09-27 12:09:46,193 - ERROR - Erro ao conectar ao banco de dados datalake: 1049 (42000): Unknown database 'datalake'
+2024-09-27 12:09:46,194 - ERROR - Não foi possível conectar ao datalake. Encerrando o script.
+2024-09-27 12:10:08,000 - INFO - Iniciando o processo de automação...
+2024-09-27 12:10:08,000 - INFO - Arquivo de configuração lido com sucesso.
+2024-09-27 12:10:08,012 - ERROR - Erro ao conectar ao banco de dados datalake: 1049 (42000): Unknown database 'datalake'
+2024-09-27 12:10:08,012 - ERROR - Não foi possível conectar ao datalake. Encerrando o script.
+2024-09-27 12:10:38,278 - INFO - Iniciando o processo de automação...
+2024-09-27 12:10:38,278 - INFO - Arquivo de configuração lido com sucesso.
+2024-09-27 12:10:38,290 - ERROR - Erro ao conectar ao banco de dados datalake: 1049 (42000): Unknown database 'datalake'
+2024-09-27 12:10:38,291 - ERROR - Não foi possível conectar ao datalake. Encerrando o script.
+2024-09-27 12:11:33,275 - INFO - Iniciando o processo de automação...
+2024-09-27 12:11:33,280 - INFO - Arquivo de configuração lido com sucesso.
+2024-09-27 12:11:33,292 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-09-27 12:11:33,293 - INFO - Processando banco de dados: DEFAULT
+2024-09-27 12:15:01,916 - INFO - Iniciando o processo de automação...
+2024-09-27 12:15:01,917 - INFO - Arquivo de configuração lido com sucesso.
+2024-09-27 12:15:01,930 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-09-27 12:15:01,931 - INFO - Processando banco de dados: DEFAULT
+2024-09-27 12:17:28,834 - INFO - Iniciando o processo de automação...
+2024-09-27 12:17:28,834 - INFO - Arquivo de configuração lido com sucesso.
+2024-09-27 12:17:28,847 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-09-27 12:17:28,848 - INFO - Processando banco de dados: DEFAULT
+2024-09-27 12:17:28,848 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-09-27 12:17:28,848 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-09-27 12:17:28,852 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-09-27 12:17:29,699 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-09-27 12:17:29,700 - ERROR - Erro ao inserir dados no datalake: Not all parameters were used in the SQL statement
+2024-09-27 12:17:29,700 - INFO - Processando banco de dados: dpego_sga_udtrindade
+2024-09-27 12:17:29,705 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udtrindade
+2024-09-27 12:17:29,891 - INFO - Consulta executada com sucesso. 28152 registros retornados.
+2024-09-27 12:17:29,922 - ERROR - Erro ao inserir dados no datalake: Not all parameters were used in the SQL statement
+2024-09-27 12:17:29,924 - INFO - Processo de automação concluído com sucesso.
+2024-09-27 12:18:48,792 - INFO - Iniciando o processo de automação...
+2024-09-27 12:18:48,792 - INFO - Arquivo de configuração lido com sucesso.
+2024-09-27 12:18:48,805 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-09-27 12:18:48,805 - INFO - Processando banco de dados: DEFAULT
+2024-09-27 12:18:48,805 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-09-27 12:18:48,806 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-09-27 12:18:48,810 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-09-27 12:18:49,695 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-09-27 12:18:49,696 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'nome_unidade' in 'field list'
+2024-09-27 12:18:49,697 - INFO - Processando banco de dados: dpego_sga_udtrindade
+2024-09-27 12:18:49,701 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udtrindade
+2024-09-27 12:18:49,887 - INFO - Consulta executada com sucesso. 28152 registros retornados.
+2024-09-27 12:18:49,918 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'nome_unidade' in 'field list'
+2024-09-27 12:18:49,919 - INFO - Processo de automação concluído com sucesso.
+2024-09-27 12:20:15,007 - INFO - Iniciando o processo de automação...
+2024-09-27 12:20:15,007 - INFO - Arquivo de configuração lido com sucesso.
+2024-09-27 12:20:15,017 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-09-27 12:20:15,017 - INFO - Processando banco de dados: DEFAULT
+2024-09-27 12:20:15,018 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-09-27 12:20:15,018 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-09-27 12:20:15,021 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-09-27 12:20:15,859 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-09-27 12:20:28,497 - INFO - Dados inseridos com sucesso no datalake. Origem: 1
+2024-09-27 12:20:28,497 - INFO - Processando banco de dados: dpego_sga_udtrindade
+2024-09-27 12:20:28,501 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udtrindade
+2024-09-27 12:20:28,687 - INFO - Consulta executada com sucesso. 28152 registros retornados.
+2024-09-27 12:20:31,481 - INFO - Dados inseridos com sucesso no datalake. Origem: 2
+2024-09-27 12:20:31,482 - INFO - Processo de automação concluído com sucesso.
+2024-09-27 16:21:24,050 - INFO - Iniciando o processo de automação...
+2024-09-27 16:21:24,055 - INFO - Arquivo de configuração lido com sucesso.
+2024-09-27 16:21:24,075 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-09-27 16:21:24,076 - INFO - Processando banco de dados: DEFAULT
+2024-09-27 16:21:24,076 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-09-27 16:21:24,076 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-09-27 16:21:24,079 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-09-27 16:21:24,866 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-09-27 16:21:38,827 - INFO - Dados inseridos com sucesso no datalake. Origem: 1
+2024-09-27 16:21:38,827 - INFO - Processando banco de dados: dpego_sga_udtrindade
+2024-09-27 16:21:38,832 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udtrindade
+2024-09-27 16:21:39,000 - INFO - Consulta executada com sucesso. 28152 registros retornados.
+2024-09-27 16:21:42,021 - INFO - Dados inseridos com sucesso no datalake. Origem: 2
+2024-09-27 16:21:42,021 - INFO - Processando banco de dados: dpego_sga_udsul
+2024-09-27 16:21:42,026 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udsul
+2024-09-27 16:21:42,039 - INFO - Consulta executada com sucesso. 1740 registros retornados.
+2024-09-27 16:21:42,225 - INFO - Dados inseridos com sucesso no datalake. Origem: 3
+2024-09-27 16:21:42,225 - INFO - Processando banco de dados: dpego_sga_udvalparaiso
+2024-09-27 16:21:42,229 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udvalparaiso
+2024-09-27 16:21:42,332 - INFO - Consulta executada com sucesso. 16882 registros retornados.
+2024-09-27 16:21:44,125 - INFO - Dados inseridos com sucesso no datalake. Origem: 4
+2024-09-27 16:21:44,125 - INFO - Processando banco de dados: dpego_sga_udoeste
+2024-09-27 16:21:44,129 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udoeste
+2024-09-27 16:21:44,202 - INFO - Consulta executada com sucesso. 11420 registros retornados.
+2024-09-27 16:21:45,374 - INFO - Dados inseridos com sucesso no datalake. Origem: 5
+2024-09-27 16:21:45,375 - INFO - Processando banco de dados: dpego_sga_udluziania
+2024-09-27 16:21:45,379 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udluziania
+2024-09-27 16:21:45,454 - INFO - Consulta executada com sucesso. 12021 registros retornados.
+2024-09-27 16:21:46,685 - INFO - Dados inseridos com sucesso no datalake. Origem: 6
+2024-09-27 16:21:46,686 - INFO - Processando banco de dados: dpego_sga_udlozandes
+2024-09-27 16:21:46,690 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udlozandes
+2024-09-27 16:21:47,518 - INFO - Consulta executada com sucesso. 130326 registros retornados.
+2024-09-27 16:22:01,790 - INFO - Dados inseridos com sucesso no datalake. Origem: 7
+2024-09-27 16:22:01,790 - INFO - Processando banco de dados: dpego_sga_udjdgoias
+2024-09-27 16:22:01,794 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udjdgoias
+2024-09-27 16:22:01,952 - INFO - Consulta executada com sucesso. 22928 registros retornados.
+2024-09-27 16:22:04,427 - INFO - Dados inseridos com sucesso no datalake. Origem: 8
+2024-09-27 16:22:04,428 - INFO - Processando banco de dados: dpego_sga_udinhumas
+2024-09-27 16:22:04,432 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udinhumas
+2024-09-27 16:22:04,492 - INFO - Consulta executada com sucesso. 7962 registros retornados.
+2024-09-27 16:22:05,358 - INFO - Dados inseridos com sucesso no datalake. Origem: 9
+2024-09-27 16:22:05,359 - INFO - Processando banco de dados: dpego_sga_udanapolis
+2024-09-27 16:22:05,363 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udanapolis
+2024-09-27 16:22:05,532 - INFO - Consulta executada com sucesso. 28063 registros retornados.
+2024-09-27 16:22:08,621 - INFO - Dados inseridos com sucesso no datalake. Origem: 10
+2024-09-27 16:22:08,621 - INFO - Processo de automação concluído com sucesso.
+2024-09-27 16:40:23,411 - INFO - Iniciando o processo de automação...
+2024-09-27 16:40:23,411 - INFO - Arquivo de configuração lido com sucesso.
+2024-09-27 16:40:23,431 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-09-27 16:40:23,432 - INFO - Processando banco de dados: DEFAULT
+2024-09-27 16:40:23,432 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-09-27 16:40:23,432 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-09-27 16:40:23,436 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-09-27 16:40:23,876 - INFO - Consulta executada com sucesso. 226 registros retornados.
+2024-09-27 16:40:23,911 - INFO - Dados inseridos com sucesso no datalake. Origem: 1
+2024-09-27 16:40:23,911 - INFO - Processando banco de dados: dpego_sga_udtrindade
+2024-09-27 16:40:23,916 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udtrindade
+2024-09-27 16:40:24,008 - INFO - Consulta executada com sucesso. 67 registros retornados.
+2024-09-27 16:40:24,019 - INFO - Dados inseridos com sucesso no datalake. Origem: 2
+2024-09-27 16:40:24,019 - INFO - Processando banco de dados: dpego_sga_udsul
+2024-09-27 16:40:24,023 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udsul
+2024-09-27 16:40:24,030 - INFO - Consulta executada com sucesso. 0 registros retornados.
+2024-09-27 16:40:24,030 - WARNING - Nenhum resultado retornado da consulta para dpego_sga_udsul
+2024-09-27 16:40:24,030 - INFO - Processando banco de dados: dpego_sga_udvalparaiso
+2024-09-27 16:40:24,034 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udvalparaiso
+2024-09-27 16:40:24,090 - INFO - Consulta executada com sucesso. 79 registros retornados.
+2024-09-27 16:40:24,101 - INFO - Dados inseridos com sucesso no datalake. Origem: 4
+2024-09-27 16:40:24,101 - INFO - Processando banco de dados: dpego_sga_udoeste
+2024-09-27 16:40:24,105 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udoeste
+2024-09-27 16:40:24,141 - INFO - Consulta executada com sucesso. 0 registros retornados.
+2024-09-27 16:40:24,141 - WARNING - Nenhum resultado retornado da consulta para dpego_sga_udoeste
+2024-09-27 16:40:24,141 - INFO - Processando banco de dados: dpego_sga_udluziania
+2024-09-27 16:40:24,145 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udluziania
+2024-09-27 16:40:24,182 - INFO - Consulta executada com sucesso. 89 registros retornados.
+2024-09-27 16:40:24,198 - INFO - Dados inseridos com sucesso no datalake. Origem: 6
+2024-09-27 16:40:24,199 - INFO - Processando banco de dados: dpego_sga_udlozandes
+2024-09-27 16:40:24,204 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udlozandes
+2024-09-27 16:40:24,643 - INFO - Consulta executada com sucesso. 120 registros retornados.
+2024-09-27 16:40:24,665 - INFO - Dados inseridos com sucesso no datalake. Origem: 7
+2024-09-27 16:40:24,666 - INFO - Processando banco de dados: dpego_sga_udjdgoias
+2024-09-27 16:40:24,671 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udjdgoias
+2024-09-27 16:40:24,755 - INFO - Consulta executada com sucesso. 36 registros retornados.
+2024-09-27 16:40:24,762 - INFO - Dados inseridos com sucesso no datalake. Origem: 8
+2024-09-27 16:40:24,763 - INFO - Processando banco de dados: dpego_sga_udinhumas
+2024-09-27 16:40:24,767 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udinhumas
+2024-09-27 16:40:24,792 - INFO - Consulta executada com sucesso. 0 registros retornados.
+2024-09-27 16:40:24,793 - WARNING - Nenhum resultado retornado da consulta para dpego_sga_udinhumas
+2024-09-27 16:40:24,793 - INFO - Processando banco de dados: dpego_sga_udanapolis
+2024-09-27 16:40:24,797 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udanapolis
+2024-09-27 16:40:24,891 - INFO - Consulta executada com sucesso. 0 registros retornados.
+2024-09-27 16:40:24,891 - WARNING - Nenhum resultado retornado da consulta para dpego_sga_udanapolis
+2024-09-27 16:40:24,891 - INFO - Processo de automação concluído com sucesso.
+2024-10-01 15:27:27,649 - INFO - Iniciando o processo de automação...
+2024-10-01 15:27:27,650 - INFO - Arquivo de configuração lido com sucesso.
+2024-10-01 15:27:27,718 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-10-01 15:27:27,718 - INFO - Processando banco de dados: DEFAULT
+2024-10-01 15:27:27,718 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-10-01 15:27:27,718 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-10-01 15:27:27,724 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-10-01 15:27:28,713 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-10-01 15:27:45,534 - INFO - Dados inseridos com sucesso no datalake. Origem: 1
+2024-10-01 15:27:45,534 - INFO - Processando banco de dados: dpego_sga_udtrindade
+2024-10-01 15:27:45,540 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udtrindade
+2024-10-01 15:27:45,738 - INFO - Consulta executada com sucesso. 28152 registros retornados.
+2024-10-01 15:27:49,196 - INFO - Dados inseridos com sucesso no datalake. Origem: 2
+2024-10-01 15:27:49,197 - INFO - Processando banco de dados: dpego_sga_udsul
+2024-10-01 15:27:49,201 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udsul
+2024-10-01 15:27:49,214 - INFO - Consulta executada com sucesso. 1740 registros retornados.
+2024-10-01 15:27:49,400 - INFO - Dados inseridos com sucesso no datalake. Origem: 3
+2024-10-01 15:27:49,400 - INFO - Processando banco de dados: dpego_sga_udvalparaiso
+2024-10-01 15:27:49,406 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udvalparaiso
+2024-10-01 15:27:49,514 - INFO - Consulta executada com sucesso. 16882 registros retornados.
+2024-10-01 15:27:51,490 - INFO - Dados inseridos com sucesso no datalake. Origem: 4
+2024-10-01 15:27:51,491 - INFO - Processando banco de dados: dpego_sga_udoeste
+2024-10-01 15:27:51,499 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udoeste
+2024-10-01 15:27:51,573 - INFO - Consulta executada com sucesso. 11420 registros retornados.
+2024-10-01 15:27:52,745 - INFO - Dados inseridos com sucesso no datalake. Origem: 5
+2024-10-01 15:27:52,746 - INFO - Processando banco de dados: dpego_sga_udluziania
+2024-10-01 15:27:52,750 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udluziania
+2024-10-01 15:27:52,828 - INFO - Consulta executada com sucesso. 12021 registros retornados.
+2024-10-01 15:27:54,065 - INFO - Dados inseridos com sucesso no datalake. Origem: 6
+2024-10-01 15:27:54,066 - INFO - Processando banco de dados: dpego_sga_udlozandes
+2024-10-01 15:27:54,071 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udlozandes
+2024-10-01 15:27:55,052 - INFO - Consulta executada com sucesso. 130326 registros retornados.
+2024-10-01 15:28:08,584 - INFO - Dados inseridos com sucesso no datalake. Origem: 7
+2024-10-01 15:28:08,585 - INFO - Processando banco de dados: dpego_sga_udjdgoias
+2024-10-01 15:28:08,589 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udjdgoias
+2024-10-01 15:28:08,769 - INFO - Consulta executada com sucesso. 22928 registros retornados.
+2024-10-01 15:28:11,227 - INFO - Dados inseridos com sucesso no datalake. Origem: 8
+2024-10-01 15:28:11,227 - INFO - Processando banco de dados: dpego_sga_udinhumas
+2024-10-01 15:28:11,231 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udinhumas
+2024-10-01 15:28:11,287 - INFO - Consulta executada com sucesso. 7962 registros retornados.
+2024-10-01 15:28:12,122 - INFO - Dados inseridos com sucesso no datalake. Origem: 9
+2024-10-01 15:28:12,123 - INFO - Processando banco de dados: dpego_sga_udanapolis
+2024-10-01 15:28:12,127 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udanapolis
+2024-10-01 15:28:12,446 - INFO - Consulta executada com sucesso. 28063 registros retornados.
+2024-10-01 15:28:15,390 - INFO - Dados inseridos com sucesso no datalake. Origem: 10
+2024-10-01 15:28:15,391 - INFO - Processo de automação concluído com sucesso.
+2024-10-08 16:32:12,337 - INFO - Iniciando o processo de automação...
+2024-10-08 16:32:12,338 - INFO - Arquivo de configuração lido com sucesso.
+2024-10-08 16:32:12,364 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-10-08 16:32:12,365 - INFO - Processando banco de dados: DEFAULT
+2024-10-08 16:32:12,365 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-10-08 16:32:12,365 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-10-08 16:32:12,370 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-10-08 16:32:13,780 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-10-08 16:33:25,943 - INFO - Iniciando o processo de automação...
+2024-10-08 16:33:25,945 - INFO - Arquivo de configuração lido com sucesso.
+2024-10-08 16:33:25,961 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-10-08 16:33:25,961 - INFO - Processando banco de dados: DEFAULT
+2024-10-08 16:33:25,961 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-10-08 16:33:25,961 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-10-08 16:33:25,967 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-10-08 16:33:27,940 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-10-08 16:44:01,266 - INFO - Iniciando o processo de automação...
+2024-10-08 16:44:01,266 - INFO - Arquivo de configuração lido com sucesso.
+2024-10-08 16:44:01,290 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-10-08 16:44:01,290 - INFO - Processando banco de dados: DEFAULT
+2024-10-08 16:44:01,290 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-10-08 16:44:01,290 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-10-08 16:44:01,294 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-10-08 16:44:02,154 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-10-08 16:44:14,492 - INFO - Iniciando o processo de automação...
+2024-10-08 16:44:14,493 - INFO - Arquivo de configuração lido com sucesso.
+2024-10-08 16:44:14,515 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-10-08 16:44:14,516 - INFO - Processando banco de dados: DEFAULT
+2024-10-08 16:44:14,516 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-10-08 16:44:14,516 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-10-08 16:44:14,521 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-10-08 16:44:15,342 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-10-08 16:44:16,770 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:16,785 - INFO - Processando banco de dados: dpego_sga_udtrindade
+2024-10-08 16:44:16,790 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udtrindade
+2024-10-08 16:44:17,118 - INFO - Consulta executada com sucesso. 28152 registros retornados.
+2024-10-08 16:44:17,448 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:17,451 - INFO - Processando banco de dados: dpego_sga_udsul
+2024-10-08 16:44:17,459 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udsul
+2024-10-08 16:44:17,489 - INFO - Consulta executada com sucesso. 1740 registros retornados.
+2024-10-08 16:44:17,519 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:17,520 - INFO - Processando banco de dados: dpego_sga_udvalparaiso
+2024-10-08 16:44:17,524 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udvalparaiso
+2024-10-08 16:44:17,730 - INFO - Consulta executada com sucesso. 16882 registros retornados.
+2024-10-08 16:44:17,935 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:17,937 - INFO - Processando banco de dados: dpego_sga_udoeste
+2024-10-08 16:44:17,945 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udoeste
+2024-10-08 16:44:18,202 - INFO - Consulta executada com sucesso. 11420 registros retornados.
+2024-10-08 16:44:18,340 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:18,341 - INFO - Processando banco de dados: dpego_sga_udluziania
+2024-10-08 16:44:18,349 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udluziania
+2024-10-08 16:44:18,517 - INFO - Consulta executada com sucesso. 12021 registros retornados.
+2024-10-08 16:44:18,675 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:18,677 - INFO - Processando banco de dados: dpego_sga_udlozandes
+2024-10-08 16:44:18,682 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udlozandes
+2024-10-08 16:44:19,930 - INFO - Consulta executada com sucesso. 130326 registros retornados.
+2024-10-08 16:44:21,406 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:21,420 - INFO - Processando banco de dados: dpego_sga_udjdgoias
+2024-10-08 16:44:21,426 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udjdgoias
+2024-10-08 16:44:21,746 - INFO - Consulta executada com sucesso. 22928 registros retornados.
+2024-10-08 16:44:22,056 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:22,058 - INFO - Processando banco de dados: dpego_sga_udinhumas
+2024-10-08 16:44:22,062 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udinhumas
+2024-10-08 16:44:22,126 - INFO - Consulta executada com sucesso. 7962 registros retornados.
+2024-10-08 16:44:22,231 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:22,232 - INFO - Processando banco de dados: dpego_sga_udanapolis
+2024-10-08 16:44:22,236 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udanapolis
+2024-10-08 16:44:22,560 - INFO - Consulta executada com sucesso. 28063 registros retornados.
+2024-10-08 16:44:22,853 - ERROR - Erro ao inserir dados no datalake: 1054 (42S22): Unknown column 'tempo_espera' in 'field list'
+2024-10-08 16:44:22,856 - INFO - Processo de automação concluído com sucesso.
+2024-10-08 16:45:22,816 - INFO - Iniciando o processo de automação...
+2024-10-08 16:45:22,817 - INFO - Arquivo de configuração lido com sucesso.
+2024-10-08 16:45:22,841 - INFO - Conectado com sucesso ao banco de dados: data_lake
+2024-10-08 16:45:22,842 - INFO - Processando banco de dados: DEFAULT
+2024-10-08 16:45:22,842 - ERROR - Configuração incompleta para o banco de dados DEFAULT. Pulando.
+2024-10-08 16:45:22,842 - INFO - Processando banco de dados: dpego_sga_udmarista
+2024-10-08 16:45:22,846 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udmarista
+2024-10-08 16:45:23,704 - INFO - Consulta executada com sucesso. 126309 registros retornados.
+2024-10-08 16:45:50,555 - INFO - Dados inseridos com sucesso no datalake. Origem: 1
+2024-10-08 16:45:50,569 - INFO - Processando banco de dados: dpego_sga_udtrindade
+2024-10-08 16:45:50,574 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udtrindade
+2024-10-08 16:45:50,760 - INFO - Consulta executada com sucesso. 28152 registros retornados.
+2024-10-08 16:45:56,729 - INFO - Dados inseridos com sucesso no datalake. Origem: 2
+2024-10-08 16:45:56,732 - INFO - Processando banco de dados: dpego_sga_udsul
+2024-10-08 16:45:56,736 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udsul
+2024-10-08 16:45:56,754 - INFO - Consulta executada com sucesso. 1740 registros retornados.
+2024-10-08 16:45:57,129 - INFO - Dados inseridos com sucesso no datalake. Origem: 3
+2024-10-08 16:45:57,129 - INFO - Processando banco de dados: dpego_sga_udvalparaiso
+2024-10-08 16:45:57,134 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udvalparaiso
+2024-10-08 16:45:57,243 - INFO - Consulta executada com sucesso. 16882 registros retornados.
+2024-10-08 16:46:00,834 - INFO - Dados inseridos com sucesso no datalake. Origem: 4
+2024-10-08 16:46:00,836 - INFO - Processando banco de dados: dpego_sga_udoeste
+2024-10-08 16:46:00,840 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udoeste
+2024-10-08 16:46:00,913 - INFO - Consulta executada com sucesso. 11420 registros retornados.
+2024-10-08 16:46:03,508 - INFO - Dados inseridos com sucesso no datalake. Origem: 5
+2024-10-08 16:46:03,509 - INFO - Processando banco de dados: dpego_sga_udluziania
+2024-10-08 16:46:03,515 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udluziania
+2024-10-08 16:46:03,603 - INFO - Consulta executada com sucesso. 12021 registros retornados.
+2024-10-08 16:46:06,240 - INFO - Dados inseridos com sucesso no datalake. Origem: 6
+2024-10-08 16:46:06,241 - INFO - Processando banco de dados: dpego_sga_udlozandes
+2024-10-08 16:46:06,245 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udlozandes
+2024-10-08 16:46:07,195 - INFO - Consulta executada com sucesso. 130326 registros retornados.
+2024-10-08 16:46:36,808 - INFO - Dados inseridos com sucesso no datalake. Origem: 7
+2024-10-08 16:46:36,824 - INFO - Processando banco de dados: dpego_sga_udjdgoias
+2024-10-08 16:46:36,830 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udjdgoias
+2024-10-08 16:46:37,110 - INFO - Consulta executada com sucesso. 22928 registros retornados.
+2024-10-08 16:46:42,303 - INFO - Dados inseridos com sucesso no datalake. Origem: 8
+2024-10-08 16:46:42,306 - INFO - Processando banco de dados: dpego_sga_udinhumas
+2024-10-08 16:46:42,310 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udinhumas
+2024-10-08 16:46:42,369 - INFO - Consulta executada com sucesso. 7962 registros retornados.
+2024-10-08 16:46:44,229 - INFO - Dados inseridos com sucesso no datalake. Origem: 9
+2024-10-08 16:46:44,230 - INFO - Processando banco de dados: dpego_sga_udanapolis
+2024-10-08 16:46:44,234 - INFO - Conectado com sucesso ao banco de dados: dpego_sga_udanapolis
+2024-10-08 16:46:44,579 - INFO - Consulta executada com sucesso. 28063 registros retornados.
+2024-10-08 16:46:50,522 - INFO - Dados inseridos com sucesso no datalake. Origem: 10
+2024-10-08 16:46:50,525 - INFO - Processo de automação concluído com sucesso.
